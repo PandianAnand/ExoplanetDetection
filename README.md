@@ -5,6 +5,14 @@ This project explores how machine learning can be used to identify exoplanets us
 ## 📊 Project Overview
 Using classification models like logistic regression and random forests, this project analyzes light curves to predict the presence of exoplanets.
 
+## 🚀 Project Workflow
+
+The project is divided into three Jupyter notebooks, each representing a key stage of the machine learning pipeline:
+
+1. **Section 1** – Data exploration and preprocessing
+2. **Section 2** – Feature engineering and model training
+3. **Section 3** – Model evaluation and results interpretation
+
 ## 🧠 Tools & Technologies
 - Python
 - Pandas, NumPy
@@ -13,7 +21,9 @@ Using classification models like logistic regression and random forests, this pr
 - Matplotlib & Seaborn
 
 ## 📁 Files
-- `exoplanet-search.ipynb`: Main Jupyter notebook with all analysis and results.
+- `Student_PlanetHunters_Section1.ipynb`: 📊 Initial data exploration and preprocessing of Kepler exoplanet candidate data.
+- `Student_PlanetHunters_Section2.ipynb`: ⚙️ Feature engineering and training a Random Forest Classifier.
+- `Student_PlanetHunters_Section3.ipynb`: 📈 Evaluation of model performance and analysis of feature importance.
 
 ## 🔍 How to Run
 1. Clone the repo
