@@ -7,7 +7,7 @@ Using classification models like logistic regression and random forests, this pr
 
 ## 🚀 Project Workflow
 
-The project is divided into three Jupyter notebooks, each representing a key stage of the machine learning pipeline:
+The project is divided into three google colab notebooks, each representing a key stage of the machine learning pipeline:
 
 1. **Section 1** – Data exploration and preprocessing
 2. **Section 2** – Feature engineering and model training
@@ -28,10 +28,10 @@ The project is divided into three Jupyter notebooks, each representing a key sta
 ## 🔍 How to Run
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open the notebook in Jupyter
+3. Open the notebook in google colab
 
 ## 📌 Results
-- Achieved **94.92% accuracy** using a Random Forest Classifier on the NASA Kepler exoplanet dataset.
+- Achieved **99.12% accuracy** using a Random Forest Classifier on the NASA Kepler exoplanet dataset.
 - Key insight: The most important features for the model were `koi_fpflag_co`, `koi_prad`, and `koi_period`, suggesting that false positive indicators, planetary radius, and orbital period are critical in determining whether a candidate is a real exoplanet.
 
 ## 👤 Author
