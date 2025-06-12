@@ -9,9 +9,9 @@ Using classification models like logistic regression and random forests, this pr
 
 The project is divided into three google colab notebooks, each representing a key stage of the machine learning pipeline:
 
-1. **Section 1** – Data exploration and preprocessing
-2. **Section 2** – Feature engineering and model training
-3. **Section 3** – Model evaluation and results interpretation
+1. **Section 1** – Data exploration and transit photometry
+2. **Section 2** – Preprocessing and Machine Learning model building
+3. **Section 3** – Advanced modeling and Evaluation
 
 ## 🧠 Tools & Technologies
 - Python
@@ -21,9 +21,9 @@ The project is divided into three google colab notebooks, each representing a ke
 - Matplotlib & Seaborn
 
 ## 📁 Files
-- `Student_PlanetHunters_Section1.ipynb`: 📊 Initial data exploration and preprocessing of Kepler exoplanet candidate data.
-- `Student_PlanetHunters_Section2.ipynb`: ⚙️ Feature engineering and training a Random Forest Classifier.
-- `Student_PlanetHunters_Section3.ipynb`: 📈 Evaluation of model performance and analysis of feature importance.
+- `Student_PlanetHunters_Section1.ipynb`: 📊 Data exploration and light curve analysis.
+- `Student_PlanetHunters_Section2.ipynb`: ⚙️ Feature engineering, preprocessing, and Random Forest modeling.
+- `Student_PlanetHunters_Section3.ipynb`: 📈 Advanced model evaluation and feature importance analysis.
 
 ## 🔍 How to Run
 1. Clone the repo
